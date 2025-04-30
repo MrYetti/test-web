@@ -1,0 +1,100 @@
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Curso Express: Mejora tu Productividad</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+      color: #333;
+      background: linear-gradient(to right, #00c6ff, #0072ff);
+      display: flex;
+      flex-direction: column;
+      min-height: 100vh;
+    }
+
+    .hero {
+      text-align: center;
+      padding: 5rem 2rem;
+      color: white;
+    }
+
+    .hero h1 {
+      font-size: 3rem;
+      margin-bottom: 1rem;
+    }
+
+    .hero p {
+      font-size: 1.2rem;
+      margin-bottom: 2rem;
+    }
+
+    .cta-btn {
+      background: white;
+      color: #0072ff;
+      font-weight: bold;
+      padding: 1rem 2rem;
+      border: none;
+      border-radius: 8px;
+      font-size: 1.2rem;
+      cursor: pointer;
+      transition: background 0.3s;
+    }
+
+    .cta-btn:hover {
+      background: #e0e0e0;
+    }
+
+    .features {
+      background: white;
+      padding: 3rem 2rem;
+      text-align: center;
+    }
+
+    .features h2 {
+      color: #0072ff;
+      margin-bottom: 2rem;
+    }
+
+    .features ul {
+      list-style: none;
+      padding: 0;
+    }
+
+    .features li {
+      margin-bottom: 1rem;
+      font-size: 1.1rem;
+    }
+
+    footer {
+      text-align: center;
+      padding: 1rem;
+      color: white;
+      background-color: #004080;
+      margin-top: auto;
+    }
+  </style>
+</head>
+<body>
+  <section class="hero">
+    <h1>¡Mejorá tu Productividad en Solo 7 Días!</h1>
+    <p>Un curso express con técnicas comprobadas para alcanzar tus metas.</p>
+    <button class="cta-btn" onclick="window.location.href='https://tucurso.com/inscripcion'">Inscribite Ahora</button>
+  </section>
+
+  <section class="features">
+    <h2>¿Qué incluye el curso?</h2>
+    <ul>
+      <li>✅ 7 lecciones prácticas</li>
+      <li>✅ Acceso de por vida</li>
+      <li>✅ Certificado al completar</li>
+      <li>✅ Soporte por email</li>
+    </ul>
+  </section>
+
+  <footer>
+    © 2025 CursoExpress. Todos los derechos reservados.
+  </footer>
+</body>
+</html>
